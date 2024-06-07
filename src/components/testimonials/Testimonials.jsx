@@ -17,7 +17,7 @@ import "swiper/css/pagination";
 const data = [
   {
     avatar: AVTR1,
-    name: "LynJen Cabanig",
+    name: "Lynjen Cabanig",
     review:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisciet incidunt doloremque nulla nihil veniam culpa sed accusantium reiciendis, eum eos fugiat cum! Tempore a temporibus cumque! Sint, quo non?",
   },
