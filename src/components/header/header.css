@@ -57,6 +57,7 @@ header {
   transform: rotate(90deg);
   font-weight: 300;
   font-size: 0.9rem;
+  color: var(--color-bg-variant);
 }
 
 /* ================ MEDIA QUERIES (MEDIUM DEVICES) ================ */
